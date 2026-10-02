@@ -1,0 +1,6 @@
+{
+  "name": "FLAMES Interactive Game",
+  "description": "An immersive, beautifully animated interactive FLAMES calculator with step-by-step elimination, zodiac matching, local match history, and AI-powered relationship advice from the Cosmic Oracle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
